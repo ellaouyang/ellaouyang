@@ -5,6 +5,7 @@
 🌟 Recipient of scholarships for outstanding academic performance in both undergraduate and postgraduate studies.
 
 💻 Technical Skills
+
 JavaScript/TypeScript, Python, HTML, CSS.
 
 React, Vue, Tailwind CSS, Ant Design, MySQL
@@ -29,4 +30,4 @@ Personal Website: [ellaouyang.site](https://www.ellaouyang.site/)
 
 LinkedIn: [ella-ouyang](https://www.linkedin.com/in/ella-ouyang/)
 
-🚀 Passionate about creating impactful, user-friendly digital experiences and exploring the potential of cutting-edge technologies! Let's collaborate!
+🚀 I am a passionate front-end developer with expertise in creating beautiful, user-friendly interfaces. Let's collaborate!
