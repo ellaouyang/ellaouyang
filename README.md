@@ -19,4 +19,5 @@ Co-founded the UOW Computing Society, where I led technical initiatives, organiz
 🌐 Connect with Me
 Personal Website: [ellaouyang.site](https://www.ellaouyang.site/)
 LinkedIn: [ella-ouyang](https://www.linkedin.com/in/ella-ouyang/)
+
 🚀 Passionate about creating impactful, user-friendly digital experiences and exploring the potential of cutting-edge technologies! Let's collaborate!
