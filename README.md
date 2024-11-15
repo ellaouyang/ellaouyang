@@ -1,6 +1,6 @@
-👋 Hi there! I’m Ella Ouyang. 
-🎓 Master of Computer Science (Machine Learning and Big Data & Software Engineering) at the University of Wollongong (2023-2025).
-🌟 Recipient of scholarships for outstanding academic performance in both undergraduate and postgraduate studies.
+- 👋 Hi there! I’m Ella Ouyang. 
+- 🎓 Master of Computer Science (Machine Learning and Big Data & Software Engineering) at the University of Wollongong (2023-2025).
+- 🌟 Recipient of scholarships for outstanding academic performance in both undergraduate and postgraduate studies.
 
 💻 Technical Skills
 JavaScript/TypeScript, Python, HTML, CSS.
