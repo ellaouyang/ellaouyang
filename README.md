@@ -6,17 +6,17 @@
 
 💻 Technical Skills
 
-JavaScript/TypeScript, Python, HTML, CSS.
+- JavaScript/TypeScript, Python, HTML, CSS.
 
-React, Vue, Tailwind CSS, Ant Design, MySQL
+- React, Vue, Tailwind CSS, Ant Design, MySQL
 
 🛠️ Projects
 
-Eco-Tourism System:
+- Eco-Tourism System:
 
 Designed a scalable microservices-based eco-tourism platform leveraging ASP.NET 8.0, React, and Tailwind CSS. Integrated multiple modules like travel recommendations, weather forecasting, and cultural activities. Utilized Docker Compose for containerized deployment and employed Ocelot Gateway for seamless communication between services.
 
-OLPC Web Project:
+- OLPC Web Project:
 
 Developed an intuitive educational platform front-end using React.js and Redux. Focused on accessibility, responsiveness, and asynchronous data management to deliver a smooth user experience.
 
